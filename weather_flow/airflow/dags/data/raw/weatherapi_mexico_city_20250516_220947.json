@@ -1,0 +1,18 @@
+{
+    "timestamp": "2025-05-16T22:09:46.845410",
+    "source": "weatherapi",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "coordinates": {
+        "lat": 19.4285,
+        "lon": -99.1277
+    },
+    "temperature": 32.3,
+    "humidity": 13,
+    "pressure": 1021.0,
+    "wind_speed": 2.111111111111111,
+    "wind_direction": 10,
+    "clouds": 25,
+    "weather_condition": "Sunny",
+    "weather_description": "Sunny"
+}

@@ -1,0 +1,20 @@
+{
+    "timestamp": "2025-05-24T00:08:44.978659",
+    "source": "weatherapi",
+    "city": "Tokyo",
+    "country": "Japan",
+    "coordinates": {
+        "lat": 35.6895,
+        "lon": 139.6917
+    },
+    "temperature": 18.2,
+    "humidity": 68,
+    "pressure": 1016.0,
+    "wind_speed": 4.111111111111112,
+    "wind_direction": 40,
+    "clouds": 75,
+    "weather_condition": "Partly cloudy",
+    "weather_description": "Partly cloudy",
+    "processed_timestamp": "2025-05-24T00:08:50.%fZ",
+    "temperature_fahrenheit": 64.75999999999999
+}

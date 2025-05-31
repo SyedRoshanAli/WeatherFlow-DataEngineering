@@ -1,0 +1,20 @@
+{
+    "timestamp": "2025-05-23T23:16:58.302404",
+    "source": "weatherapi",
+    "city": "London",
+    "country": "UK",
+    "coordinates": {
+        "lat": 51.5171,
+        "lon": -0.1062
+    },
+    "temperature": 14.0,
+    "humidity": 77,
+    "pressure": 1016.0,
+    "wind_speed": 3.8055555555555554,
+    "wind_direction": 240,
+    "clouds": 100,
+    "weather_condition": "Overcast",
+    "weather_description": "Overcast",
+    "processed_timestamp": "2025-05-23T23:17:05.%fZ",
+    "temperature_fahrenheit": 57.2
+}

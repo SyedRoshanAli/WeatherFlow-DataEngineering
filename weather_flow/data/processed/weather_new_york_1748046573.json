@@ -1,0 +1,20 @@
+{
+    "timestamp": "2025-05-24T00:29:25.001041",
+    "source": "weatherapi",
+    "city": "New York",
+    "country": "US",
+    "coordinates": {
+        "lat": 40.7142,
+        "lon": -74.0064
+    },
+    "temperature": 11.7,
+    "humidity": 93,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "wind_direction": 274,
+    "clouds": 100,
+    "weather_condition": "Light rain",
+    "weather_description": "Light rain",
+    "processed_timestamp": "2025-05-24T00:29:33.%fZ",
+    "temperature_fahrenheit": 53.06
+}

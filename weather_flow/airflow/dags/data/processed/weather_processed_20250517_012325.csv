@@ -1,0 +1,111 @@
+timestamp,source,city,country,coordinates,temperature,humidity,pressure,wind_speed,wind_direction,clouds,weather_condition,weather_description,temperature_fahrenheit,processed_timestamp,heat_index_fahrenheit,heat_index_celsius,weather_severity
+2025-05-17T00:22:26.262014,weatherapi,Tokyo,Japan,"{'lat': 35.6895, 'lon': 139.6917}",19.0,94,1013.0,4.0,172,75,Light rain,Light rain,66.2,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:49.891447,weatherapi,Mexico City,Mexico,"{'lat': 19.4285, 'lon': -99.1277}",29.3,29,1021.0,1.611111111111111,90,75,Partly cloudy,Partly cloudy,84.74,2025-05-17T01:23:25.854440Z,82.519625952304,28.066458862391112,normal
+2025-05-17T00:22:59.441925,weatherapi,New York,US,"{'lat': 40.7142, 'lon': -74.0064}",20.2,87,1006.0,3.8055555555555554,149,0,Overcast,Overcast,68.36,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:22:12.261985,weatherapi,New York,US,"{'lat': 40.7142, 'lon': -74.0064}",20.2,87,1006.0,3.8055555555555554,149,0,Overcast,Overcast,68.36,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:22:23.967215,weatherapi,London,UK,"{'lat': 51.5171, 'lon': -0.1062}",11.0,71,1024.0,4.0,15,100,Overcast,Overcast,51.8,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:16:07.593067,weatherapi,Berlin,Germany,"{'lat': 52.5167, 'lon': 13.4}",11.0,62,1014.0,4.5,287,0,Partly Cloudy,Partly Cloudy,51.8,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:13:19.794769,weatherapi,Mexico City,Mexico,"{'lat': 19.4285, 'lon': -99.1277}",29.1,29,1021.0,1.611111111111111,90,75,Partly cloudy,Partly cloudy,84.38000000000001,2025-05-17T01:23:25.854440Z,82.2189505809761,27.899416989431167,normal
+2025-05-17T00:22:45.466544,weatherapi,New York,US,"{'lat': 40.7142, 'lon': -74.0064}",20.2,87,1006.0,3.8055555555555554,149,0,Overcast,Overcast,68.36,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:35.230479,weatherapi,Berlin,Germany,"{'lat': 52.5167, 'lon': 13.4}",11.3,62,1014.0,4.5,287,0,Partly Cloudy,Partly Cloudy,52.34,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-16T23:48:33.194889,weatherapi,Berlin,Germany,"{'lat': 52.5167, 'lon': 13.4}",11.2,62,1014.0,4.305555555555555,293,0,Partly Cloudy,Partly Cloudy,52.16,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:17.356132,weatherapi,New York,US,"{'lat': 40.7142, 'lon': -74.0064}",20.2,87,1006.0,3.8055555555555554,149,0,Overcast,Overcast,68.36,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-16T23:48:34.303657,weatherapi,Berlin,Germany,"{'lat': 52.5167, 'lon': 13.4}",11.2,62,1014.0,4.305555555555555,293,0,Partly Cloudy,Partly Cloudy,52.16,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:22:22.519301,weatherapi,Mexico City,Mexico,"{'lat': 19.4285, 'lon': -99.1277}",29.3,29,1021.0,1.611111111111111,90,75,Partly cloudy,Partly cloudy,84.74,2025-05-17T01:23:25.854440Z,82.519625952304,28.066458862391112,normal
+2025-05-17T00:21:28.954710,weatherapi,London,UK,"{'lat': 51.5171, 'lon': -0.1062}",11.0,71,1024.0,4.0,15,100,Overcast,Overcast,51.8,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:44:42.858554,weatherapi,Tokyo,Japan,"{'lat': 35.6895, 'lon': 139.6917}",18.1,92,1014.0,4.0,172,100,Moderate rain,Moderate rain,64.58,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:25.453678,weatherapi,Mexico City,Mexico,"{'lat': 19.4285, 'lon': -99.1277}",29.3,29,1021.0,1.611111111111111,90,75,Partly cloudy,Partly cloudy,84.74,2025-05-17T01:23:25.854440Z,82.519625952304,28.066458862391112,normal
+2025-05-17T00:22:25.043343,weatherapi,London,UK,"{'lat': 51.5171, 'lon': -0.1062}",11.0,71,1024.0,4.0,15,100,Overcast,Overcast,51.8,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:22:57.863862,weatherapi,Mexico City,Mexico,"{'lat': 19.4285, 'lon': -99.1277}",29.3,29,1021.0,1.611111111111111,90,75,Partly cloudy,Partly cloudy,84.74,2025-05-17T01:23:25.854440Z,82.519625952304,28.066458862391112,normal
+2025-05-17T00:21:39.678710,weatherapi,Berlin,Germany,"{'lat': 52.5167, 'lon': 13.4}",11.3,62,1014.0,4.5,287,0,Partly Cloudy,Partly Cloudy,52.34,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:13:12.210413,weatherapi,New York,US,"{'lat': 40.7142, 'lon': -74.0064}",20.0,87,1006.0,3.8055555555555554,149,0,Overcast,Overcast,68.0,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:44:41.100787,weatherapi,London,UK,"{'lat': 51.5171, 'lon': -0.1062}",11.1,71,1024.0,3.888888888888889,13,100,Overcast,Overcast,51.98,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:31.276404,weatherapi,Tokyo,Japan,"{'lat': 35.6895, 'lon': 139.6917}",19.0,94,1013.0,4.0,172,75,Light rain,Light rain,66.2,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:23:09.911124,weatherapi,Mexico City,Mexico,"{'lat': 19.4285, 'lon': -99.1277}",29.3,29,1021.0,1.611111111111111,90,75,Partly cloudy,Partly cloudy,84.74,2025-05-17T01:23:25.854440Z,82.519625952304,28.066458862391112,normal
+2025-05-17T00:23:31.523711,weatherapi,Berlin,Germany,"{'lat': 52.5167, 'lon': 13.4}",11.3,62,1014.0,4.5,287,0,Partly Cloudy,Partly Cloudy,52.34,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T01:23:19.448547,weatherapi,Berlin,Germany,"{'lat': 52.5167, 'lon': 13.4}",10.3,62,1013.0,4.805555555555555,286,0,Clear,Clear,50.54,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:23:19.138712,weatherapi,Berlin,Germany,"{'lat': 52.5167, 'lon': 13.4}",11.3,62,1014.0,4.5,287,0,Partly Cloudy,Partly Cloudy,52.34,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:22:27.606180,weatherapi,Tokyo,Japan,"{'lat': 35.6895, 'lon': 139.6917}",19.0,94,1013.0,4.0,172,75,Light rain,Light rain,66.2,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:41.251006,weatherapi,New York,US,"{'lat': 40.7142, 'lon': -74.0064}",20.2,87,1006.0,3.8055555555555554,149,0,Overcast,Overcast,68.36,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:13:14.009641,weatherapi,London,UK,"{'lat': 51.5171, 'lon': -0.1062}",11.2,71,1024.0,4.0,15,100,Overcast,Overcast,52.16,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:50.021754,weatherapi,Berlin,Germany,"{'lat': 52.5167, 'lon': 13.4}",11.3,62,1014.0,4.5,287,0,Partly Cloudy,Partly Cloudy,52.34,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:45.503582,weatherapi,Tokyo,Japan,"{'lat': 35.6895, 'lon': 139.6917}",19.0,94,1013.0,4.0,172,75,Light rain,Light rain,66.2,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:22:22.378062,weatherapi,New York,US,"{'lat': 40.7142, 'lon': -74.0064}",20.2,87,1006.0,3.8055555555555554,149,0,Overcast,Overcast,68.36,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:26.754201,weatherapi,New York,US,"{'lat': 40.7142, 'lon': -74.0064}",20.2,87,1006.0,3.8055555555555554,149,0,Overcast,Overcast,68.36,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:22:31.255362,weatherapi,Mexico City,Mexico,"{'lat': 19.4285, 'lon': -99.1277}",29.3,29,1021.0,1.611111111111111,90,75,Partly cloudy,Partly cloudy,84.74,2025-05-17T01:23:25.854440Z,82.519625952304,28.066458862391112,normal
+2025-05-17T00:21:43.407741,weatherapi,London,UK,"{'lat': 51.5171, 'lon': -0.1062}",11.0,71,1024.0,4.0,15,100,Overcast,Overcast,51.8,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:13:15.893923,weatherapi,Tokyo,Japan,"{'lat': 35.6895, 'lon': 139.6917}",19.0,94,1013.0,4.0,172,75,Light rain,Light rain,66.2,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:44:39.326980,weatherapi,New York,US,"{'lat': 40.7142, 'lon': -74.0064}",20.1,87,1006.0,3.8055555555555554,149,0,Overcast,Overcast,68.18,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:23:01.794617,weatherapi,London,UK,"{'lat': 51.5171, 'lon': -0.1062}",11.0,71,1024.0,4.0,15,100,Overcast,Overcast,51.8,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:21.408721,weatherapi,Tokyo,Japan,"{'lat': 35.6895, 'lon': 139.6917}",19.0,94,1013.0,4.0,172,75,Light rain,Light rain,66.2,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:22:50.815596,weatherapi,Tokyo,Japan,"{'lat': 35.6895, 'lon': 139.6917}",19.0,94,1013.0,4.0,172,75,Light rain,Light rain,66.2,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:22:17.338514,weatherapi,Tokyo,Japan,"{'lat': 35.6895, 'lon': 139.6917}",19.0,94,1013.0,4.0,172,75,Light rain,Light rain,66.2,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:44:46.526248,weatherapi,Mexico City,Mexico,"{'lat': 19.4285, 'lon': -99.1277}",29.1,29,1021.0,1.611111111111111,90,75,Partly cloudy,Partly cloudy,84.38000000000001,2025-05-17T01:23:25.854440Z,82.2189505809761,27.899416989431167,normal
+2025-05-17T00:21:45.114905,weatherapi,Berlin,Germany,"{'lat': 52.5167, 'lon': 13.4}",11.3,62,1014.0,4.5,287,0,Partly Cloudy,Partly Cloudy,52.34,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:22:48.214287,weatherapi,London,UK,"{'lat': 51.5171, 'lon': -0.1062}",11.0,71,1024.0,4.0,15,100,Overcast,Overcast,51.8,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:22:32.551994,weatherapi,Mexico City,Mexico,"{'lat': 19.4285, 'lon': -99.1277}",29.3,29,1021.0,1.611111111111111,90,75,Partly cloudy,Partly cloudy,84.74,2025-05-17T01:23:25.854440Z,82.519625952304,28.066458862391112,normal
+2025-05-17T00:21:19.354748,weatherapi,London,UK,"{'lat': 51.5171, 'lon': -0.1062}",11.0,71,1024.0,4.0,15,100,Overcast,Overcast,51.8,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:56.519403,weatherapi,Berlin,Germany,"{'lat': 52.5167, 'lon': 13.4}",11.3,62,1014.0,4.5,287,0,Partly Cloudy,Partly Cloudy,52.34,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:23:04.711554,weatherapi,Tokyo,Japan,"{'lat': 35.6895, 'lon': 139.6917}",19.0,94,1013.0,4.0,172,75,Light rain,Light rain,66.2,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:49.836819,weatherapi,Berlin,Germany,"{'lat': 52.5167, 'lon': 13.4}",11.3,62,1014.0,4.5,287,0,Partly Cloudy,Partly Cloudy,52.34,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:22:21.670924,weatherapi,New York,US,"{'lat': 40.7142, 'lon': -74.0064}",20.2,87,1006.0,3.8055555555555554,149,0,Overcast,Overcast,68.36,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:35.692004,weatherapi,Mexico City,Mexico,"{'lat': 19.4285, 'lon': -99.1277}",29.3,29,1021.0,1.611111111111111,90,75,Partly cloudy,Partly cloudy,84.74,2025-05-17T01:23:25.854440Z,82.519625952304,28.066458862391112,normal
+2025-05-17T00:22:14.876523,weatherapi,London,UK,"{'lat': 51.5171, 'lon': -0.1062}",11.0,71,1024.0,4.0,15,100,Overcast,Overcast,51.8,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:23:21.887036,weatherapi,Mexico City,Mexico,"{'lat': 19.4285, 'lon': -99.1277}",29.3,29,1021.0,1.611111111111111,90,75,Partly cloudy,Partly cloudy,84.74,2025-05-17T01:23:25.854440Z,82.519625952304,28.066458862391112,normal
+2025-05-17T01:23:21.192553,weatherapi,Mexico City,Mexico,"{'lat': 19.4285, 'lon': -99.1277}",27.2,34,1022.0,2.694444444444444,94,75,Partly cloudy,Partly cloudy,80.96,2025-05-17T01:23:25.854440Z,80.0906845266241,26.717046959235613,normal
+2025-05-17T00:21:54.025395,weatherapi,Tokyo,Japan,"{'lat': 35.6895, 'lon': 139.6917}",19.0,94,1013.0,4.0,172,75,Light rain,Light rain,66.2,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:23:07.334045,weatherapi,Berlin,Germany,"{'lat': 52.5167, 'lon': 13.4}",11.3,62,1014.0,4.5,287,0,Partly Cloudy,Partly Cloudy,52.34,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:23:33.531922,weatherapi,Mexico City,Mexico,"{'lat': 19.4285, 'lon': -99.1277}",29.3,29,1021.0,1.611111111111111,90,75,Partly cloudy,Partly cloudy,84.74,2025-05-17T01:23:25.854440Z,82.519625952304,28.066458862391112,normal
+2025-05-17T00:21:47.560191,weatherapi,Tokyo,Japan,"{'lat': 35.6895, 'lon': 139.6917}",19.0,94,1013.0,4.0,172,75,Light rain,Light rain,66.2,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:40.797981,weatherapi,London,UK,"{'lat': 51.5171, 'lon': -0.1062}",11.0,71,1024.0,4.0,15,100,Overcast,Overcast,51.8,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:41.952186,weatherapi,Mexico City,Mexico,"{'lat': 19.4285, 'lon': -99.1277}",29.3,29,1021.0,1.611111111111111,90,75,Partly cloudy,Partly cloudy,84.74,2025-05-17T01:23:25.854440Z,82.519625952304,28.066458862391112,normal
+2025-05-17T00:21:51.552523,weatherapi,London,UK,"{'lat': 51.5171, 'lon': -0.1062}",11.0,71,1024.0,4.0,15,100,Overcast,Overcast,51.8,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:16:01.328933,weatherapi,New York,US,"{'lat': 40.7142, 'lon': -74.0064}",20.0,87,1006.0,3.8055555555555554,149,0,Overcast,Overcast,68.0,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:23.466528,weatherapi,Berlin,Germany,"{'lat': 52.5167, 'lon': 13.4}",11.3,62,1014.0,4.5,287,0,Partly Cloudy,Partly Cloudy,52.34,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-16T23:48:26.372266,weatherapi,New York,US,"{'lat': 40.7142, 'lon': -74.0064}",19.4,87,1007.0,3.3055555555555554,132,25,Mist,Mist,66.92,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:28.952475,weatherapi,New York,US,"{'lat': 40.7142, 'lon': -74.0064}",20.2,87,1006.0,3.8055555555555554,149,0,Overcast,Overcast,68.36,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:22:54.755373,weatherapi,Berlin,Germany,"{'lat': 52.5167, 'lon': 13.4}",11.3,62,1014.0,4.5,287,0,Partly Cloudy,Partly Cloudy,52.34,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:22:20.071943,weatherapi,Berlin,Germany,"{'lat': 52.5167, 'lon': 13.4}",11.3,62,1014.0,4.5,287,0,Partly Cloudy,Partly Cloudy,52.34,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-16T23:48:36.298123,weatherapi,Mexico City,Mexico,"{'lat': 19.4285, 'lon': -99.1277}",30.3,27,1020.0,1.1111111111111112,23,75,Partly cloudy,Partly cloudy,86.53999999999999,2025-05-17T01:23:25.854440Z,83.88073651230401,28.82263139572445,moderate
+2025-05-17T00:21:42.880549,weatherapi,Tokyo,Japan,"{'lat': 35.6895, 'lon': 139.6917}",19.0,94,1013.0,4.0,172,75,Light rain,Light rain,66.2,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:45.486192,weatherapi,London,UK,"{'lat': 51.5171, 'lon': -0.1062}",11.0,71,1024.0,4.0,15,100,Overcast,Overcast,51.8,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:37.296776,weatherapi,Mexico City,Mexico,"{'lat': 19.4285, 'lon': -99.1277}",29.3,29,1021.0,1.611111111111111,90,75,Partly cloudy,Partly cloudy,84.74,2025-05-17T01:23:25.854440Z,82.519625952304,28.066458862391112,normal
+2025-05-16T23:48:35.397853,weatherapi,Mexico City,Mexico,"{'lat': 19.4285, 'lon': -99.1277}",30.3,27,1020.0,1.1111111111111112,23,75,Partly cloudy,Partly cloudy,86.53999999999999,2025-05-17T01:23:25.854440Z,83.88073651230401,28.82263139572445,moderate
+2025-05-17T00:21:45.601057,weatherapi,London,UK,"{'lat': 51.5171, 'lon': -0.1062}",11.0,71,1024.0,4.0,15,100,Overcast,Overcast,51.8,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:16:09.604131,weatherapi,Mexico City,Mexico,"{'lat': 19.4285, 'lon': -99.1277}",29.1,29,1021.0,1.611111111111111,90,75,Partly cloudy,Partly cloudy,84.38000000000001,2025-05-17T01:23:25.854440Z,82.2189505809761,27.899416989431167,normal
+2025-05-17T00:13:17.815494,weatherapi,Berlin,Germany,"{'lat': 52.5167, 'lon': 13.4}",11.0,62,1014.0,4.5,287,0,Partly Cloudy,Partly Cloudy,51.8,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:33.128334,weatherapi,New York,US,"{'lat': 40.7142, 'lon': -74.0064}",20.2,87,1006.0,3.8055555555555554,149,0,Overcast,Overcast,68.36,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-16T23:48:27.860003,weatherapi,New York,US,"{'lat': 40.7142, 'lon': -74.0064}",19.4,87,1007.0,3.3055555555555554,132,25,Mist,Mist,66.92,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:23:24.625778,weatherapi,New York,US,"{'lat': 40.7142, 'lon': -74.0064}",20.2,87,1006.0,3.8055555555555554,149,0,Overcast,Overcast,68.36,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:47.796388,weatherapi,Tokyo,Japan,"{'lat': 35.6895, 'lon': 139.6917}",19.0,94,1013.0,4.0,172,75,Light rain,Light rain,66.2,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:47.623333,weatherapi,Berlin,Germany,"{'lat': 52.5167, 'lon': 13.4}",11.3,62,1014.0,4.5,287,0,Partly Cloudy,Partly Cloudy,52.34,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:23:12.125456,weatherapi,New York,US,"{'lat': 40.7142, 'lon': -74.0064}",20.2,87,1006.0,3.8055555555555554,149,0,Overcast,Overcast,68.36,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T01:23:14.027977,weatherapi,New York,US,"{'lat': 40.7142, 'lon': -74.0064}",19.4,87,1006.0,3.194444444444444,152,0,Overcast,Overcast,66.92,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:33.538162,weatherapi,Berlin,Germany,"{'lat': 52.5167, 'lon': 13.4}",11.3,62,1014.0,4.5,287,0,Partly Cloudy,Partly Cloudy,52.34,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:51.947989,weatherapi,Mexico City,Mexico,"{'lat': 19.4285, 'lon': -99.1277}",29.3,29,1021.0,1.611111111111111,90,75,Partly cloudy,Partly cloudy,84.74,2025-05-17T01:23:25.854440Z,82.519625952304,28.066458862391112,normal
+2025-05-16T23:48:30.141111,weatherapi,London,UK,"{'lat': 51.5171, 'lon': -0.1062}",11.2,71,1024.0,4.0,15,100,Overcast,Overcast,52.16,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:59.124655,weatherapi,Mexico City,Mexico,"{'lat': 19.4285, 'lon': -99.1277}",29.3,29,1021.0,1.611111111111111,90,75,Partly cloudy,Partly cloudy,84.74,2025-05-17T01:23:25.854440Z,82.519625952304,28.066458862391112,normal
+2025-05-17T00:21:35.176691,weatherapi,London,UK,"{'lat': 51.5171, 'lon': -0.1062}",11.0,71,1024.0,4.0,15,100,Overcast,Overcast,51.8,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:23:29.303789,weatherapi,Tokyo,Japan,"{'lat': 35.6895, 'lon': 139.6917}",19.0,94,1013.0,4.0,172,75,Light rain,Light rain,66.2,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T01:23:17.659011,weatherapi,Tokyo,Japan,"{'lat': 35.6895, 'lon': 139.6917}",20.1,94,1012.0,5.305555555555556,190,75,Light rain,Light rain,68.18,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:23:16.804259,weatherapi,Tokyo,Japan,"{'lat': 35.6895, 'lon': 139.6917}",19.0,94,1013.0,4.0,172,75,Light rain,Light rain,66.2,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:22:29.997494,weatherapi,Berlin,Germany,"{'lat': 52.5167, 'lon': 13.4}",11.3,62,1014.0,4.5,287,0,Partly Cloudy,Partly Cloudy,52.34,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:43.381155,weatherapi,New York,US,"{'lat': 40.7142, 'lon': -74.0064}",20.2,87,1006.0,3.8055555555555554,149,0,Overcast,Overcast,68.36,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:47.213103,weatherapi,Mexico City,Mexico,"{'lat': 19.4285, 'lon': -99.1277}",29.3,29,1021.0,1.611111111111111,90,75,Partly cloudy,Partly cloudy,84.74,2025-05-17T01:23:25.854440Z,82.519625952304,28.066458862391112,normal
+2025-05-16T23:48:32.203276,weatherapi,Tokyo,Japan,"{'lat': 35.6895, 'lon': 139.6917}",19.0,94,1013.0,4.5,165,75,Light rain,Light rain,66.2,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:44:44.666878,weatherapi,Berlin,Germany,"{'lat': 52.5167, 'lon': 13.4}",11.3,62,1014.0,4.5,287,0,Partly Cloudy,Partly Cloudy,52.34,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:23:14.626861,weatherapi,London,UK,"{'lat': 51.5171, 'lon': -0.1062}",11.0,71,1024.0,4.0,15,100,Overcast,Overcast,51.8,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T01:23:15.873331,weatherapi,London,UK,"{'lat': 51.5171, 'lon': -0.1062}",11.1,71,1024.0,3.611111111111111,16,100,Overcast,Overcast,51.98,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:23:27.189749,weatherapi,London,UK,"{'lat': 51.5171, 'lon': -0.1062}",11.0,71,1024.0,4.0,15,100,Overcast,Overcast,51.8,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:37.430117,weatherapi,Tokyo,Japan,"{'lat': 35.6895, 'lon': 139.6917}",19.0,94,1013.0,4.0,172,75,Light rain,Light rain,66.2,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:38.555342,weatherapi,New York,US,"{'lat': 40.7142, 'lon': -74.0064}",20.2,87,1006.0,3.8055555555555554,149,0,Overcast,Overcast,68.36,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:16:05.342372,weatherapi,Tokyo,Japan,"{'lat': 35.6895, 'lon': 139.6917}",19.0,94,1013.0,4.0,172,75,Light rain,Light rain,66.2,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:33.146936,weatherapi,Tokyo,Japan,"{'lat': 35.6895, 'lon': 139.6917}",19.0,94,1013.0,4.0,172,75,Light rain,Light rain,66.2,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-16T23:48:31.012436,weatherapi,Tokyo,Japan,"{'lat': 35.6895, 'lon': 139.6917}",19.0,94,1013.0,4.5,165,75,Light rain,Light rain,66.2,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:22:28.756441,weatherapi,Berlin,Germany,"{'lat': 52.5167, 'lon': 13.4}",11.3,62,1014.0,4.5,287,0,Partly Cloudy,Partly Cloudy,52.34,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:43.327275,weatherapi,New York,US,"{'lat': 40.7142, 'lon': -74.0064}",20.2,87,1006.0,3.8055555555555554,149,0,Overcast,Overcast,68.36,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:52.032980,weatherapi,Mexico City,Mexico,"{'lat': 19.4285, 'lon': -99.1277}",29.3,29,1021.0,1.611111111111111,90,75,Partly cloudy,Partly cloudy,84.74,2025-05-17T01:23:25.854440Z,82.519625952304,28.066458862391112,normal
+2025-05-16T23:48:28.630513,weatherapi,London,UK,"{'lat': 51.5171, 'lon': -0.1062}",11.2,71,1024.0,4.0,15,100,Overcast,Overcast,52.16,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:30.980316,weatherapi,London,UK,"{'lat': 51.5171, 'lon': -0.1062}",11.0,71,1024.0,4.0,15,100,Overcast,Overcast,51.8,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:16:03.336486,weatherapi,London,UK,"{'lat': 51.5171, 'lon': -0.1062}",11.2,71,1024.0,4.0,15,100,Overcast,Overcast,52.16,2025-05-17T01:23:25.854440Z,,,normal
+2025-05-17T00:21:49.333491,weatherapi,New York,US,"{'lat': 40.7142, 'lon': -74.0064}",20.2,87,1006.0,3.8055555555555554,149,0,Overcast,Overcast,68.36,2025-05-17T01:23:25.854440Z,,,normal

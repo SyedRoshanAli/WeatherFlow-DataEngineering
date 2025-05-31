@@ -1,0 +1,18 @@
+{
+    "timestamp": "2025-05-16T21:29:04.584570",
+    "source": "weatherapi",
+    "city": "Tokyo",
+    "country": "Japan",
+    "coordinates": {
+        "lat": 35.6895,
+        "lon": 139.6917
+    },
+    "temperature": 20.1,
+    "humidity": 88,
+    "pressure": 1016.0,
+    "wind_speed": 6.305555555555555,
+    "wind_direction": 191,
+    "clouds": 75,
+    "weather_condition": "Light rain",
+    "weather_description": "Light rain"
+}

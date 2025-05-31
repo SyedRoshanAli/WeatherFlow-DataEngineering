@@ -1,0 +1,107 @@
+[
+  {
+    "timestamp": "2025-05-24T04:26:32",
+    "source": "weatherapi",
+    "city": "London",
+    "country": "United Kingdom",
+    "coordinates": {
+      "lat": 51.5171,
+      "lon": -0.1062
+    },
+    "temperature": 14.0,
+    "humidity": 77,
+    "pressure": 1016.0,
+    "wind_speed": 3.8055555555555554,
+    "wind_direction": 240,
+    "clouds": 100,
+    "weather_condition": "Overcast",
+    "weather_description": "Overcast",
+    "processed_timestamp": "2025-05-24T04-26-32",
+    "temperature_fahrenheit": 57.2,
+    "weather_severity": "mild"
+  },
+  {
+    "timestamp": "2025-05-24T04:26:32",
+    "source": "weatherapi",
+    "city": "Berlin",
+    "country": "Germany",
+    "coordinates": {
+      "lat": 52.5167,
+      "lon": 13.4
+    },
+    "temperature": 4.3,
+    "humidity": 93,
+    "pressure": 1015.0,
+    "wind_speed": 3.0,
+    "wind_direction": 225,
+    "clouds": 0,
+    "weather_condition": "Partly Cloudy",
+    "weather_description": "Partly Cloudy",
+    "processed_timestamp": "2025-05-24T04-26-32",
+    "temperature_fahrenheit": 39.7,
+    "weather_severity": "mild"
+  },
+  {
+    "timestamp": "2025-05-24T04:26:33",
+    "source": "weatherapi",
+    "city": "New York",
+    "country": "United States of America",
+    "coordinates": {
+      "lat": 40.7142,
+      "lon": -74.0064
+    },
+    "temperature": 15.0,
+    "humidity": 62,
+    "pressure": 1010.0,
+    "wind_speed": 5.805555555555555,
+    "wind_direction": 268,
+    "clouds": 75,
+    "weather_condition": "Partly cloudy",
+    "weather_description": "Partly cloudy",
+    "processed_timestamp": "2025-05-24T04-26-33",
+    "temperature_fahrenheit": 59.0,
+    "weather_severity": "mild"
+  },
+  {
+    "timestamp": "2025-05-24T04:26:33",
+    "source": "weatherapi",
+    "city": "Tokyo",
+    "country": "Japan",
+    "coordinates": {
+      "lat": 35.6895,
+      "lon": 139.6917
+    },
+    "temperature": 18.1,
+    "humidity": 73,
+    "pressure": 1017.0,
+    "wind_speed": 4.388888888888889,
+    "wind_direction": 37,
+    "clouds": 75,
+    "weather_condition": "Partly cloudy",
+    "weather_description": "Partly cloudy",
+    "processed_timestamp": "2025-05-24T04-26-33",
+    "temperature_fahrenheit": 64.6,
+    "weather_severity": "mild"
+  },
+  {
+    "timestamp": "2025-05-24T04:26:33",
+    "source": "weatherapi",
+    "city": "Sydney",
+    "country": "Australia",
+    "coordinates": {
+      "lat": -33.8833,
+      "lon": 151.2167
+    },
+    "temperature": 18.3,
+    "humidity": 64,
+    "pressure": 1015.0,
+    "wind_speed": 5.0,
+    "wind_direction": 304,
+    "clouds": 0,
+    "weather_condition": "Sunny",
+    "weather_description": "Sunny",
+    "processed_timestamp": "2025-05-24T04-26-33",
+    "temperature_fahrenheit": 64.9,
+    "weather_severity": "mild"
+  }
+]

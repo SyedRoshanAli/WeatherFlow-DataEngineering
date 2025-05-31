@@ -1,0 +1,18 @@
+{
+    "timestamp": "2025-05-17T00:21:39.678710",
+    "source": "weatherapi",
+    "city": "Berlin",
+    "country": "Germany",
+    "coordinates": {
+        "lat": 52.5167,
+        "lon": 13.4
+    },
+    "temperature": 11.3,
+    "humidity": 62,
+    "pressure": 1014.0,
+    "wind_speed": 4.5,
+    "wind_direction": 287,
+    "clouds": 0,
+    "weather_condition": "Partly Cloudy",
+    "weather_description": "Partly Cloudy"
+}

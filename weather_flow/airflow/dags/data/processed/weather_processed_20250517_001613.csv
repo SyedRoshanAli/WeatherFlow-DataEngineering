@@ -1,0 +1,21 @@
+timestamp,source,city,country,coordinates,temperature,humidity,pressure,wind_speed,wind_direction,clouds,weather_condition,weather_description,temperature_fahrenheit,processed_timestamp,heat_index_fahrenheit,heat_index_celsius,weather_severity
+2025-05-17T00:16:07.593067,weatherapi,Berlin,Germany,"{'lat': 52.5167, 'lon': 13.4}",11.0,62,1014.0,4.5,287,0,Partly Cloudy,Partly Cloudy,51.8,2025-05-17T00:16:13.349928Z,,,normal
+2025-05-17T00:13:19.794769,weatherapi,Mexico City,Mexico,"{'lat': 19.4285, 'lon': -99.1277}",29.1,29,1021.0,1.611111111111111,90,75,Partly cloudy,Partly cloudy,84.38000000000001,2025-05-17T00:16:13.349928Z,82.2189505809761,27.899416989431167,normal
+2025-05-16T23:48:33.194889,weatherapi,Berlin,Germany,"{'lat': 52.5167, 'lon': 13.4}",11.2,62,1014.0,4.305555555555555,293,0,Partly Cloudy,Partly Cloudy,52.16,2025-05-17T00:16:13.349928Z,,,normal
+2025-05-16T23:48:34.303657,weatherapi,Berlin,Germany,"{'lat': 52.5167, 'lon': 13.4}",11.2,62,1014.0,4.305555555555555,293,0,Partly Cloudy,Partly Cloudy,52.16,2025-05-17T00:16:13.349928Z,,,normal
+2025-05-17T00:13:12.210413,weatherapi,New York,US,"{'lat': 40.7142, 'lon': -74.0064}",20.0,87,1006.0,3.8055555555555554,149,0,Overcast,Overcast,68.0,2025-05-17T00:16:13.349928Z,,,normal
+2025-05-17T00:13:14.009641,weatherapi,London,UK,"{'lat': 51.5171, 'lon': -0.1062}",11.2,71,1024.0,4.0,15,100,Overcast,Overcast,52.16,2025-05-17T00:16:13.349928Z,,,normal
+2025-05-17T00:13:15.893923,weatherapi,Tokyo,Japan,"{'lat': 35.6895, 'lon': 139.6917}",19.0,94,1013.0,4.0,172,75,Light rain,Light rain,66.2,2025-05-17T00:16:13.349928Z,,,normal
+2025-05-17T00:16:01.328933,weatherapi,New York,US,"{'lat': 40.7142, 'lon': -74.0064}",20.0,87,1006.0,3.8055555555555554,149,0,Overcast,Overcast,68.0,2025-05-17T00:16:13.349928Z,,,normal
+2025-05-16T23:48:26.372266,weatherapi,New York,US,"{'lat': 40.7142, 'lon': -74.0064}",19.4,87,1007.0,3.3055555555555554,132,25,Mist,Mist,66.92,2025-05-17T00:16:13.349928Z,,,normal
+2025-05-16T23:48:36.298123,weatherapi,Mexico City,Mexico,"{'lat': 19.4285, 'lon': -99.1277}",30.3,27,1020.0,1.1111111111111112,23,75,Partly cloudy,Partly cloudy,86.53999999999999,2025-05-17T00:16:13.349928Z,83.88073651230401,28.82263139572445,moderate
+2025-05-16T23:48:35.397853,weatherapi,Mexico City,Mexico,"{'lat': 19.4285, 'lon': -99.1277}",30.3,27,1020.0,1.1111111111111112,23,75,Partly cloudy,Partly cloudy,86.53999999999999,2025-05-17T00:16:13.349928Z,83.88073651230401,28.82263139572445,moderate
+2025-05-17T00:16:09.604131,weatherapi,Mexico City,Mexico,"{'lat': 19.4285, 'lon': -99.1277}",29.1,29,1021.0,1.611111111111111,90,75,Partly cloudy,Partly cloudy,84.38000000000001,2025-05-17T00:16:13.349928Z,82.2189505809761,27.899416989431167,normal
+2025-05-17T00:13:17.815494,weatherapi,Berlin,Germany,"{'lat': 52.5167, 'lon': 13.4}",11.0,62,1014.0,4.5,287,0,Partly Cloudy,Partly Cloudy,51.8,2025-05-17T00:16:13.349928Z,,,normal
+2025-05-16T23:48:27.860003,weatherapi,New York,US,"{'lat': 40.7142, 'lon': -74.0064}",19.4,87,1007.0,3.3055555555555554,132,25,Mist,Mist,66.92,2025-05-17T00:16:13.349928Z,,,normal
+2025-05-16T23:48:30.141111,weatherapi,London,UK,"{'lat': 51.5171, 'lon': -0.1062}",11.2,71,1024.0,4.0,15,100,Overcast,Overcast,52.16,2025-05-17T00:16:13.349928Z,,,normal
+2025-05-16T23:48:32.203276,weatherapi,Tokyo,Japan,"{'lat': 35.6895, 'lon': 139.6917}",19.0,94,1013.0,4.5,165,75,Light rain,Light rain,66.2,2025-05-17T00:16:13.349928Z,,,normal
+2025-05-17T00:16:05.342372,weatherapi,Tokyo,Japan,"{'lat': 35.6895, 'lon': 139.6917}",19.0,94,1013.0,4.0,172,75,Light rain,Light rain,66.2,2025-05-17T00:16:13.349928Z,,,normal
+2025-05-16T23:48:31.012436,weatherapi,Tokyo,Japan,"{'lat': 35.6895, 'lon': 139.6917}",19.0,94,1013.0,4.5,165,75,Light rain,Light rain,66.2,2025-05-17T00:16:13.349928Z,,,normal
+2025-05-16T23:48:28.630513,weatherapi,London,UK,"{'lat': 51.5171, 'lon': -0.1062}",11.2,71,1024.0,4.0,15,100,Overcast,Overcast,52.16,2025-05-17T00:16:13.349928Z,,,normal
+2025-05-17T00:16:03.336486,weatherapi,London,UK,"{'lat': 51.5171, 'lon': -0.1062}",11.2,71,1024.0,4.0,15,100,Overcast,Overcast,52.16,2025-05-17T00:16:13.349928Z,,,normal

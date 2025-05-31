@@ -1,0 +1,18 @@
+{
+    "timestamp": "2025-05-17T00:22:22.378062",
+    "source": "weatherapi",
+    "city": "New York",
+    "country": "US",
+    "coordinates": {
+        "lat": 40.7142,
+        "lon": -74.0064
+    },
+    "temperature": 20.2,
+    "humidity": 87,
+    "pressure": 1006.0,
+    "wind_speed": 3.8055555555555554,
+    "wind_direction": 149,
+    "clouds": 0,
+    "weather_condition": "Overcast",
+    "weather_description": "Overcast"
+}

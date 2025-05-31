@@ -1,0 +1,18 @@
+{
+    "timestamp": "2025-05-16T23:48:27.860003",
+    "source": "weatherapi",
+    "city": "New York",
+    "country": "US",
+    "coordinates": {
+        "lat": 40.7142,
+        "lon": -74.0064
+    },
+    "temperature": 19.4,
+    "humidity": 87,
+    "pressure": 1007.0,
+    "wind_speed": 3.3055555555555554,
+    "wind_direction": 132,
+    "clouds": 25,
+    "weather_condition": "Mist",
+    "weather_description": "Mist"
+}

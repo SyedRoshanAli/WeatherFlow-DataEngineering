@@ -1,0 +1,20 @@
+{
+    "timestamp": "2025-05-23T22:00:23.148611",
+    "source": "weatherapi",
+    "city": "London",
+    "country": "UK",
+    "coordinates": {
+        "lat": 51.5171,
+        "lon": -0.1062
+    },
+    "temperature": 14.2,
+    "humidity": 59,
+    "pressure": 1016.0,
+    "wind_speed": 3.611111111111111,
+    "wind_direction": 233,
+    "clouds": 0,
+    "weather_condition": "Patchy rain nearby",
+    "weather_description": "Patchy rain nearby",
+    "processed_timestamp": "2025-05-23T22:00:30.%fZ",
+    "temperature_fahrenheit": 57.56
+}

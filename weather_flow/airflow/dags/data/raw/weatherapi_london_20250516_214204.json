@@ -1,0 +1,18 @@
+{
+    "timestamp": "2025-05-16T21:41:52.823583",
+    "source": "weatherapi",
+    "city": "London",
+    "country": "UK",
+    "coordinates": {
+        "lat": 51.5171,
+        "lon": -0.1062
+    },
+    "temperature": 12.1,
+    "humidity": 71,
+    "pressure": 1025.0,
+    "wind_speed": 4.805555555555555,
+    "wind_direction": 20,
+    "clouds": 75,
+    "weather_condition": "Partly cloudy",
+    "weather_description": "Partly cloudy"
+}
